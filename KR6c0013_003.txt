@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:56.983458
+#+DATE: 2015-08-30 19:44:01.995859
 #+TITLE: 小品般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0227
 #+PROPERTY: ID KR6c0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 227
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0013_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0013_T_003-0546a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《小品般若波羅蜜經》卷第三¶
+《小品般若波羅蜜經》¶
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-6佐助品
-:PROPERTIES:
-:head: 佐助品第六
-:END:
-¶
+佐助品第六¶
 
 佛告釋提桓因言：「憍尸迦！若有善男子、善女¶
 人，教閻浮提人令行十善道。於意云何？是¶
@@ -197,11 +192,7 @@
 過去諸佛及諸弟子，以六波羅蜜應安慰佐¶
 助故，得阿耨多羅三藐三菩提。」¶
 
-7迴向品
-:PROPERTIES:
-:head: 《摩訶般若波羅蜜》迴向品第七
-:END:
-¶
+《摩訶般若波羅蜜》迴向品第七¶
 
 爾時彌勒菩薩語須菩提：「菩薩摩訶薩隨喜¶
 福德，於餘眾生，布施持戒，修禪福德，最大最¶
@@ -436,11 +427,7 @@
 及一，百千萬億分不及，一乃至算數譬喻所¶
 不能及。」¶
 
-8泥犁品
-:PROPERTIES:
-:head: 《摩訶般若波羅蜜》泥犁品第八
-:END:
-¶
+《摩訶般若波羅蜜》泥犁品第八¶
 
 爾時舍利弗白佛言：「世尊！是般若波羅蜜，佛¶
 言是般若波羅蜜。世尊！般若波羅蜜能作照
