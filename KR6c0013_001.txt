@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:56.910972
+#+DATE: 2015-08-30 19:44:00.251516
 #+TITLE: 小品般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0227
 #+PROPERTY: ID KR6c0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 227
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6c0013_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0013_T_001-0536c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.227[Nos.220(4or5),224-226,228,cf.229]¶
+No. 227 [Nos. 220(4 or 5), 224-226, 228, cf. 229]¶
 
-序
-:PROPERTIES:
-:head: 《小品經》序
-:END:
-¶
+《小品經》序¶
 ¶
 釋僧叡¶
 
@@ -56,17 +52,12 @@ No.227[Nos.220(4or5),224-226,228,cf.229]¶
 之賢，略其華而幾其實也。¶
 ¶
 ¶
-
- 《摩訶般若波羅蜜經》卷第一¶
+《摩訶般若波羅蜜經》卷第一¶
 (丹本摩訶上有小品二字)¶
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-1初品
-:PROPERTIES:
-:head: 初品第一
-:END:
-¶
+初品第一¶
 
 如是我聞：
 
@@ -391,11 +382,7 @@ No.227[Nos.220(4or5),224-226,228,cf.229]¶
 得。舍利弗！我欲令菩薩，以是念行般若波羅¶
 蜜。」¶
 
-2釋提桓因品
-:PROPERTIES:
-:head: 《摩訶般若波羅蜜》釋提桓因品第二
-:END:
-¶
+《摩訶般若波羅蜜》釋提桓因品第二¶
 
 爾時釋提桓因，與四萬天子，俱在會中；四天¶
 王，與二萬天子，俱在會中；娑婆世界主、梵天¶
